@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Jewish History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Humanities",
+      "Religion"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "ebde8643-1410-392c-ea39-02a5e01c2971"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Jewish History from Biblical to Modern Times",
+  "course_description": "This course explores how our views of Jewish history have been formed and how this history can explain the survival of the Jews as an ethnic/religious group into the present day. Special attention is given to the partial and fragmentary nature of our information about the past, and the difficulties inherent in decoding statements about the past that were written with a religious agenda in mind. It also considers complex events in Jewish history -- from early history as portrayed in the Bible to recent history, including the Holocaust.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.914",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
